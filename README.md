@@ -30,19 +30,22 @@ When I’m not coding, you can find me **running, crocheting, collecting plants*
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
 </p>
 
+## 🎨 Experience  
+**Orange Polska**  
+  *Data & AI Intern* | Jul 2025 – Sep 2025  
+  Worked on **data warehouse, ETL pipelines, report automation**, and **data replication** tasks using SQL Server and Python.  
+  Additionally, **developed a custom LLM-based chat model** for the data warehouse to assist with queries and insights.  
+
+  *Junior Data Engineer* | Oct 2025  
+  Took on **more independent tasks**, optimizing pipelines, building ETL solutions, and working on real-world data projects.  
+  Continuously pursuing **personal projects** in spare time to improve skills in ML, ETL, and data engineering.  
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Feel+welcome+to+check+my+projects+%F0%9F%8E%80" alt="Typing SVG"/>
+</p>
 
 
-<!--
-**dagmara1223/dagmara1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
