@@ -1,9 +1,21 @@
-# Hi there!   
+<div align="center">
 
-## 😁 I am a Computer Science & Intelligent Systems student at AGH University of Kraków <br>
-(It's my final year btw!) <br>
-Aspiring **Data Engineer** | ML & DL enthusiast | ETL & Databases lover  <br>
+# Hi there! 👋 I'm Dagmara! 
+### CS & Intelligent Systems student at AGH University of Kraków 🤖
+<p >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+DataEngineering+%7C+ML+%7C+DL" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dagmara-krenich-497951372/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:daga.krenich@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 
 
