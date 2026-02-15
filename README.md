@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there!   
+![PenguinHelloGIF](https://github.com/user-attachments/assets/42618364-4004-4a99-a18f-0a688f96c6ce) <br>
+
+## 😁 I am a Computer Science & Intelligent Systems student at AGH University of Kraków <br>
+(It's my final year btw!) <br>
+Aspiring **Data Engineer** | ML & DL enthusiast | ETL & Databases lover  <br>
+
+
+
 
 <!--
 **dagmara1223/dagmara1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
