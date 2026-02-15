@@ -2,7 +2,7 @@
 
 # Hi there! 🍓 I'm Dagmara! 
 ### CS & Intelligent Systems student at AGH University of Kraków 🤖 <br>
-(It's my final year btw! )
+( It's my final year btw! Can't wait to write my engineering thesis )
 <p >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+DataEngineering+%7C+ML+%7C+DL" alt="Typing SVG"/>
 </p>
