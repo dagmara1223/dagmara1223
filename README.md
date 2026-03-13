@@ -49,7 +49,10 @@ When I’m not coding, you can find me **running, crocheting, collecting plants*
 
 </p>
 
-## 🎨 Experience  
+## 🎨 Experience    
+**Cloudfide**     
+  *Data Support Engineer* | Mar 2026 - 
+
 **Orange Polska**  
   *Data & AI Intern* | Jul 2025 – Sep 2025  
   Worked on **data warehouse, ETL pipelines, report automation**, and **data replication** tasks using SQL Server and Python.  
