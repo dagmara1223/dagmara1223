@@ -56,7 +56,7 @@ When I’m not coding, you can find me **running, crocheting, , diving into phil
 
 **Orange Polska**  
   *Junior Data Engineer* | Sep 2025 - Nov 2025
-  Took on **more independent tasks**, optimizing pipelines, building ETL solutions, and working on real-world data projects.  
+  Took on **more independent tasks**, optimizing pipelines, building ETL solutions, and working on LLM-based chat model created by me.  
   Continuously pursuing **personal projects** in spare time to improve skills in ML, ETL, and data engineering.  
 
   *Data & AI Intern* | Jul 2025 – Sep 2025  
