@@ -2,7 +2,7 @@
 
 # Hi there! 🍓 I'm Dagmara! 
 ### CS & Intelligent Systems student at AGH University of Kraków 🤖, Junior Data Engineer ☁️ <br>
-( It's my final year btw! Can't wait to write my engineering thesis )
+( It's my final year btw! Can't wait to present my engineering thesis )
 <p >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+DataEngineering+%7C+ML+%7C+DL" alt="Typing SVG"/>
 </p>
@@ -18,10 +18,10 @@
 </div>
 
 ## 🌸 About Me
-I’m a fan of all things data — whether it’s **visualizing, cleaning, moving, replicating, or using it for machine learning**, building **data pipelines**, or designing **data warehouses**.  
-I enjoy turning raw data into meaningful insights and tackling new challenges through everyday projects and hackathons with friends. <br> 
+I’m a fan of all things data — whether it’s **visualizing, cleaning, moving, replicating, or using it for machine learning**, building **data pipelines**, **reports** or designing **data warehouses**.  
+I enjoy working with stakeholders, presenting and creating business cases and hackathons with friends. <br> 
 
-When I’m not coding, you can find me **running, crocheting, collecting plants** (42 and counting 🌿), or cheering for F1 races 🏎️. <br> 
+When I’m not coding, you can find me **running, crocheting, , diving into philosophy, collecting plants** (42 and counting 🌿), or cheering for F1 races 🏎️. I also have a fluffy dog! <br> 
 
 ## 🛠️ Technologies & Tools
 <p align="center">
@@ -48,17 +48,20 @@ When I’m not coding, you can find me **running, crocheting, collecting plants*
 </p>
 
 ## 🎨 Experience    
+**Brown Brothers Harriman**     
+  *Business Analyst Intern* | Nov 2026 - 
+
 **Cloudfide**     
-  *Data Support Engineer* | Mar 2026 - 
+  *Junior Data Engineer* | Mar 2026 - Nov 2026
 
 **Orange Polska**  
+  *Junior Data Engineer* | Sep 2025 - Nov 2025
+  Took on **more independent tasks**, optimizing pipelines, building ETL solutions, and working on real-world data projects.  
+  Continuously pursuing **personal projects** in spare time to improve skills in ML, ETL, and data engineering.  
+
   *Data & AI Intern* | Jul 2025 – Sep 2025  
   Worked on **data warehouse, ETL pipelines, report automation**, and **data replication** tasks using SQL Server and Python.  
   Additionally, **developed a custom LLM-based chat model** for the data warehouse to assist with queries and insights.  
-
-  *Junior Data Engineer* | Oct 2025  
-  Took on **more independent tasks**, optimizing pipelines, building ETL solutions, and working on real-world data projects.  
-  Continuously pursuing **personal projects** in spare time to improve skills in ML, ETL, and data engineering.  
 <br>
 
 <p align="center">
